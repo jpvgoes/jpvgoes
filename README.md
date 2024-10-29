@@ -26,6 +26,8 @@
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpvgoes&layout=compact)
+
 
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>
 <img width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
