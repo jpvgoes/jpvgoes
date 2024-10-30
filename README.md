@@ -18,7 +18,9 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpvgoes&theme=algolia&show_icons=true)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpvgoes&theme=algolia&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpvgoes&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div/>
 
@@ -26,7 +28,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpvgoes&layout=compact)
+
 
 
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>
