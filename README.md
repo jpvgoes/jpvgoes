@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpvgoes&theme=monokai&show_icons=true)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpvgoes&theme=algolia&show_icons=true)</br>
 
 <div/>
 
