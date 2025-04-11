@@ -8,7 +8,7 @@
 
 <div align="left">
 
-- 🔭 I’m currently learning web scraping and APIs
+- 🔭 I’m currently learning Data Science
 - 🌱 I intend to learn AI, data analysis and improve my backend skills
 - 😄 Pronouns: he/him
 
