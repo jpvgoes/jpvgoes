@@ -8,8 +8,8 @@
 
 <div align="left">
 
-- 🔭 I’m currently learning Data Science, Computational vision and SQL
-- 🌱 I intend to learn AI, data enginnering and improve my backend skills
+- 🔭 I’m currently working with Nodejs, React, AWS, etc. :)
+- 🌱 I intend to improve my skills in AI
 - 😄 Pronouns: he/him
 
 <div/>
