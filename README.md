@@ -56,7 +56,7 @@
 
 ### 📫 Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/joão-pedro-vieira-góes-35a72a287)  
+- [LinkedIn](https://www.linkedin.com/in/joão-pedro-vieira-góes-35a72a287/)  
 - [Email](mailto:jpvgoes@gmail.com)  
 - Personal portfolio coming soon 🚧
 
