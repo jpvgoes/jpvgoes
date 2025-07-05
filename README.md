@@ -1,30 +1,21 @@
-## Hi there 👋
+## 👋 Hey there! I'm João Pedro
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=221BF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Software+Engineering+Student+at+FIAP;Passionate+about+Tech+%26+Innovation" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-- 🔭 Currently working with **Node.js**, **React**, **AWS**, and more.
-- 🌱 Passionate about expanding my skills in **AI and Machine Learning**.
-- 💬 Always open to collaboration and learning from others.
-- 😄 Pronouns: **he/him**
-
----
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpvgoes&theme=algolia&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpvgoes&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+- 💼 **Full-stack Developer** at **Cervejaria Cidade Imperial**
+- 🎓 Studying **Software Engineering** at **FIAP - Brazil**
+- ⚙️ Working with **Node.js**, **JavaScript**, **HTML/CSS**, **Python**, and **AWS**
+- 🌱 Always learning and growing in **backend**, **DevOps**, and **AI**
+- 🤝 Open to collaboration, knowledge exchange, and challenging opportunities
+- 🌍 Based in Brazil | Languages: Portuguese 🇧🇷 & English 🇺🇸
 
 ---
 
@@ -37,7 +28,38 @@
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS"/>
 
 </div>
 
+---
 
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jpvgoes&theme=algolia&show_icons=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvgoes&theme=algolia&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+### 🔍 Highlights
+
+- 🧪 Practical experience with **Node.js** and **RESTful APIs**
+- ⚡ Building automation tools, web apps, and real-world solutions
+- 🤖 Special interest in **Machine Learning** and **Applied AI**
+
+---
+
+### 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Email](mailto:your.email@example.com)  
+- Personal portfolio coming soon 🚧
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repos, leave a ⭐, or reach out for a chat.
