@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Full-stack Developer** at **Cervejaria Cidade Imperial**
+- 💼 **Full-stack Developer**
 - 🎓 Studying **Software Engineering** at **FIAP - Brazil**
 - ⚙️ Working with **Node.js**, **JavaScript**, **HTML/CSS**, **Python**, and **AWS**
 - 🌱 Always learning and growing in **backend**, **DevOps**, and **AI**
