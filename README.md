@@ -96,7 +96,7 @@
 - 🤖 Engineered a SaaS platform integrating **FastAPI** with **RAG** (Retrieval-Augmented Generation) and **FAISS**
 - 💳 Architected monetization system using **Stripe** with automated subscription flows
 - 🎯 Increased AI response accuracy through vector search optimization
-- **[View on GitHub](https://github.com/jpvgoes)**
+- **[View Project](https://lex-ai-murex.vercel.app/)**
 
 ### **Library-API – Library Management System**
 **Node.js | Express.js | MongoDB**
