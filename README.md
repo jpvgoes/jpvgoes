@@ -115,16 +115,6 @@
 - GPA: 3.7/4.0 (Academic Excellence)
 - **Coursework:** Software Engineering Practice, Applied Machine Learning, Operating Systems, Data Structures, Database Design, Model-Based Programming
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jpvgoes&theme=algolia&show_icons=true&count_private=true&line_height=27" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvgoes&theme=algolia&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## 🎯 Key Highlights
 
